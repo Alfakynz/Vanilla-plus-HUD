@@ -1,0 +1,40 @@
+name: "🐛 Bug Report"
+description: Report a problem or unexpected behavior in Vanilla+ HUD
+title: "[Bug]: "
+labels: ["bug"]
+assignees: ["Alfakynz"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🐞 Bug Report
+        Thanks for taking the time to help improve Vanilla+ HUD!  
+        Please fill out the following information to help us reproduce and fix the issue.
+
+  - type: input
+    id: version
+    attributes:
+      label: "Vanilla+ HUD Version"
+      description: Which version of Vanilla+ HUD are you using?
+      placeholder: "e.g. v1.0.0"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe the bug"
+      description: What happened, and what did you expect to happen?
+      placeholder: "Explain clearly what the bug is."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "I'm using the latest version of Vanilla+ HUD."
+          required: true
+        - label: "I've checked existing issues to avoid duplicates."
+          required: true
