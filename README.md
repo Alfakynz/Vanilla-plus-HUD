@@ -9,7 +9,7 @@ Vanilla+ HUD is a better alternative to the Vanilla HUD, keeping the Vanilla sty
 
 ## 📦 Installation
 
-You can download Vanilla+ HUD on [Modrinth](https://modrinth.com/project/FVonl8G5) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/crystal-tooltips)
+You can download Vanilla+ HUD on [Modrinth](https://modrinth.com/project/BSuopNBj) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/vanilla-plus-hud)
 
 ## 📦 Modpack
 
